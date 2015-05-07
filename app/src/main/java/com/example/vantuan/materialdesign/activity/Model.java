@@ -1,5 +1,8 @@
 class Model
 {
 
-    
+    public Model()
+    {
+
+    }
 }
