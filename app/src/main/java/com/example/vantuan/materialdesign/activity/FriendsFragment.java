@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 import com.example.vantuan.materialdesign.R;
 
 /**
- * Created by vantuan on 06/05/2015.
+ * Created by vantuan on 06/05/2015., hehe
  */
 public class FriendsFragment extends Fragment
 {

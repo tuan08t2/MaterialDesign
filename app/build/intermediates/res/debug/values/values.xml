@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesignClone/MaterialDesign/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string-array name="nav_drawer_labels">
         <item>@string/nav_item_home</item>
         <item>@string/nav_item_friends</item>
         <item>@string/nav_item_notifications</item>
     </string-array>
-    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesignClone/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -38,12 +38,12 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesignClone/MaterialDesign/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="colorAccent">#FF80AB</color>
     <color name="colorPrimary">#F50057</color>
     <color name="colorPrimaryDark">#C51162</color>
-    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesignClone/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
@@ -60,10 +60,10 @@
     <color name="material_blue_grey_950">#ff21272b</color>
     <color name="material_deep_teal_200">#ff80cbc4</color>
     <color name="material_deep_teal_500">#ff009688</color>
-    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesignClone/MaterialDesign/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="navigationBarColor">#000000</color>
-    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesignClone/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <color name="primary_dark_material_dark">#ff000000</color>
     <color name="primary_dark_material_light">#ff757575</color>
@@ -83,7 +83,7 @@
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesignClone/MaterialDesign/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="textColorPrimary">#FFFFFF</color>
     <color name="windowBackground">#FFFFFF</color>
@@ -112,7 +112,7 @@
     <declare-styleable name="Toolbar"><attr format="reference" name="titleTextAppearance"/><attr format="reference" name="subtitleTextAppearance"/><attr name="title"/><attr name="subtitle"/><attr name="android:gravity"/><attr format="dimension" name="titleMargins"/><attr format="dimension" name="titleMarginStart"/><attr format="dimension" name="titleMarginEnd"/><attr format="dimension" name="titleMarginTop"/><attr format="dimension" name="titleMarginBottom"/><attr name="contentInsetStart"/><attr name="contentInsetEnd"/><attr name="contentInsetLeft"/><attr name="contentInsetRight"/><attr format="dimension" name="maxButtonHeight"/><attr format="reference" name="collapseIcon"/><attr format="string" name="collapseContentDescription"/><attr name="popupTheme"/><attr format="reference" name="navigationIcon"/><attr format="string" name="navigationContentDescription"/><attr name="android:minHeight"/></declare-styleable>
     <declare-styleable name="View"><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr name="android:focusable"/><attr format="reference" name="theme"/><attr name="android:theme"/><attr format="color" name="backgroundTint"/><attr name="backgroundTintMode"><enum name="src_over" value="3"/><enum name="src_in" value="5"/><enum name="src_atop" value="9"/><enum name="multiply" value="14"/><enum name="screen" value="15"/></attr></declare-styleable>
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
-    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesignClone/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
@@ -174,11 +174,11 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesignClone/MaterialDesign/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesignClone/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -186,10 +186,10 @@
     <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesignClone/MaterialDesign/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="nav_drawer_width">260dp</dimen>
-    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesignClone/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <item name="action_bar_activity_content" type="id"/>
     <item name="action_bar_spinner" type="id"/>
@@ -220,7 +220,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesignClone/MaterialDesign/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_search">Search</string>
     <string name="action_settings">Settings</string>
@@ -234,18 +234,18 @@
     <string name="title_friends">Friends</string>
     <string name="title_home">Home</string>
     <string name="title_messages">Messages</string>
-    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesignClone/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesignClone/MaterialDesign/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
     </style>
-    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesignClone/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
@@ -1156,7 +1156,7 @@
         <item name="android:scaleType">center</item>
         <item name="android:background">?attr/selectableItemBackground</item>
     </style>
-    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesignClone/MaterialDesign/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="MyMaterialTheme" parent="MyMaterialTheme.Base">
 
@@ -1168,7 +1168,7 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
+    <!-- From: file:/media/vantuan/Android/AndroidUbuntu/MaterialDesignClone/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>

@@ -14,7 +14,7 @@ import android.view.View;
 import com.example.vantuan.materialdesign.R;
 import com.example.vantuan.materialdesign.adapter.FragmentDrawer;
 
-//This is test
+//This is test, hh
 public class MainActivity extends ActionBarActivity implements FragmentDrawer.FragmentDrawerListener
 {
     private Toolbar mToolbar;
