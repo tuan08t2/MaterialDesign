@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/build/intermediates/pre-dexed/debug/classes-d3a27303c2e374e121b73e95b04d93bb201d81d6.jar" />
+    </item>
+    <item
+        jar="/home/vantuan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-e0c1a6d430df84ac49aa62ac0fb4c3f79f849697.jar" />
+    </item>
+    <item
+        jar="/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/build/intermediates/pre-dexed/debug/classes-a74285b5fa84750ad8f3056b458e8c8def454291.jar" />
+    </item>
+    <item
+        jar="/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/build/intermediates/pre-dexed/debug/classes-b37d7bce3fa88efa66ed003cd1d2aba26d7da1bb.jar" />
+    </item>
+    <item
+        jar="/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/media/vantuan/Android/AndroidUbuntu/MaterialDesign/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-18ec9a11a4e64c14ffe6e4b5d44944d03308ff2e.jar" />
+    </item>
+
+</items>
